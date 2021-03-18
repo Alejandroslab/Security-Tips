@@ -1,0 +1,14 @@
+Remmeber to implement
+network segmentation (that means divide the devices
+in different subnets and set iptables commands in order to
+make rules to who can have access to the internet or to
+the router etc..)
+
+(you can also google 'network segmentation' to learn more)
+
+in this way you will build a good network organisation
+
+segmentation is also the concept behind the DMZ
+that is the demilitarized zone, a sort of buffer
+open to the internet that stays outside the main network for
+security
