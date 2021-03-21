@@ -1,0 +1,19 @@
+you will need
+rolldice package in Debian from another machine possibly
+
+procedure:
+
+generate a sequence of 5 random numbers with dices
+
+with the command
+
+rolldice 5x
+
+search the corresponding term in the wordlist (could be diceware)
+
+take note of the word
+
+repeat the procedure other 5 times to get a 6 words passphrase
+
+usually the entropy of these passhprase are very high
+(>130 bits) therefore they are very secure passwords
