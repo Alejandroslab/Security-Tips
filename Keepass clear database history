@@ -1,0 +1,6 @@
+if you change the location of your keepass database
+
+you may want to clear your database History
+in order to do that in Mac go to
+
+Database->Recent Database->Clear history
